@@ -14,7 +14,7 @@
 	<name>ImageUpload</name>
 	<description>Single Image upload form</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
